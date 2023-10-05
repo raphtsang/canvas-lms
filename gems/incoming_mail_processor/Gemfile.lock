@@ -78,7 +78,7 @@ GEM
       activerecord (>= 5.2)
       activesupport (>= 5.2)
     aws-eventstream (1.2.0)
-    aws-partitions (1.832.0)
+    aws-partitions (1.833.0)
     aws-sdk-core (3.185.0)
       aws-eventstream (~> 1, >= 1.0.2)
       aws-partitions (~> 1, >= 1.651.0)
@@ -214,7 +214,7 @@ GEM
     sanitize (6.1.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
-    sorbet-runtime (0.5.10965)
+    sorbet-runtime (0.5.11062)
     statsd-ruby (1.5.0)
     stringio (3.0.8)
     thor (1.2.2)
@@ -251,4 +251,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.4.20
+   2.4.19
